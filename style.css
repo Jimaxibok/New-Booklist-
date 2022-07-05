@@ -5,22 +5,18 @@
 }
 body{
     font-family: Arial, Helvetica, sans-serif;
-    background: url(file:///C:/Users/HP/Desktop/todolist%20by%20timi/vgg-activities/img-4.jpg) center center fixed;
+    /* background: url(file:///C:/Users/HP/Desktop/todolist%20by%20timi/vgg-activities/img-4.jpg) center center fixed; */
+    background: url(img-4.jpg) center center fixed;
     background-repeat: no-repeat ;
-    background-size:auto;
+    background-size:cover;
 }
-/* #login{
-    padding-top: 50px;
-    border-radius: 30px;
-} */
-
 
 .form-group{
     margin-top: 2rem;
     width:50%;
     margin: auto;
     padding: 2rem;
-    /* background-color: blue; */
+   
    
 }
 
@@ -142,16 +138,13 @@ input{
   width:100%;
   margin: auto;
   padding: 1rem;
-  /* font-size: 2rem; */
-  
-  /* background-color: blue; */
- 
+
 }
 
 .table-list{
   width: 90%;
   margin: auto;
-  /* padding:2rem; */
+  
 }
 
 }
